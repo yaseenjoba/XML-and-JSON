@@ -1,0 +1,21 @@
+
+{
+    "inbox": [
+        {
+            "message": {
+            "from": "ahmad@example.com",
+            "to": "fadi@example.com",
+            "subject": "Hello World!",
+            "body": "How are you?"
+        }
+        },
+        {
+            "message": {
+            "from": "ahmad@example.com",
+            "to": "fadi@example.com",
+            "subject": "Hello World!",
+            "body": "How are you?"
+        }
+        }
+    ]
+}
